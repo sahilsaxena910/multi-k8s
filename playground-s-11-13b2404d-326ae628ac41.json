@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "playground-s-11-13b2404d",
+  "private_key_id": "326ae628ac416cd2f77cbfdb9c2a6708529390ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOpCIY7pSw3MUo\nIb/tIaD3cSuEibzBORltv0dZwydyjsIX8ZRRSV0uH4llARqPNv9n/0yfosAsh0FN\nRFX4/VvgPFfuUQSmhsHMb9gm9Db/e644crGqhc5M6OLobePz4qwYiMe1goat+1vT\nT6OueHG+ET0AdAShn3PBSAPtvuRN6BbbGIEWHQFHjUobVsvkCZrhYqCp0UFfAs8K\nVRFNQr/nOi86pH0o+aAwghKVdvKnxSHrpAqfCcrY9CK/dsq1wJeLULVCFxNDr1F+\nrbnCf2ybujLB5ujxKfiWhsQ/NvjA9oZQxgpHs00t2+KjESYH/otOzqegMvNDkY6k\nLVhBn793AgMBAAECggEAHtL9AxsTsw47mrDuIEFT8ZVAGJUzQt9xm51c11b1G3GQ\nImI27akz7R1nMVnozFQ35RuAIo/0eq/yXcRDztB8VAasVzBesTiI0CYe6DClw5Z/\ndowlVHqBO5fBwUojJs45Pa+pmrnNvUYxfGP01qHA1clcgCTOTA2tBrfnXh+LjtM7\ndmBn58INkHuNHaeyzrGgehDp9TsIGGzX2zw8NTk+LW/C1YMabv81bF7Yr1MD8S3O\n0o8djhytRBVe/HPDEEsD+Hyrwaad9WSIOmaxZq1Y1pEWx2h8BODYXbX1cf/09nDO\nrT41+BYlD8QHlfAux8MS0ue9icl/Px+O73JpdakBgQKBgQDoX+3+1clMynDgKeu4\nmjK/mXVDq0uMHgTxN6uV04/izE+BdjJ+hvakOLdogDoXKpjaaCTEdearRKDWQC02\njVjD5Lk2QGzd7B4aSu2lJ5B8I5t8Nxj8TbO31FE35Od07UMa3Mn1J4JN9G//Cpm6\nAKPDVQg9+XdMi/sHTUZA/DkEWwKBgQDjpm4Cqn0Lkj2Tmblp2dqmLsBtLHriaexD\nAXsy8+ZPUC6MHEbXMXiadctetqjeuyMPx21BNJnRNZDPLEGhdYyV99ut+g+c75f7\nULBE231oMk73Qy1c/uIBHFW6O5VNnD5jixxCoVczBhEyGpFGh+8+ZFbzdRvIAp4f\nCcYtRBRsFQKBgAW2TfhksvUTSOEJxsSb7cFt+Ub3j/zaxA5V6v7c232cvhuVlzor\nAScaSc/kzwjAwE8mHjlCGLB/GGEL5NChetwd5DukK8jsw/SrgNn9dfzHN0w/YnrZ\nQiCztGdmVhY2ut6PLNu84+QcrSAc15iN6Xikv3YeisMz8bDFQoPYb2JfAoGBAMnp\nIGOu8S+lKoZSbxhKSFri1ns+W1Ob3RhlJO9BUkGAfXh5z/8neq+M0K8V1VuPoX5q\nRCX0UIU1PFX0C9X325Rb/PUm+FgaTbNykpTQFD+pd05pv79etfeEOSjvlfH7JX7G\nsG8MiLnRpMjKtZVYFcNB3bkbYmOYpsQiuCoH2xEtAoGATIQMcqWxU7qgEGQencHY\nKywpq3fArzhqdOmc4gus8+QHIHll0iqm//Pou7HQegV+Wmireog1ovlgleYAxyRs\n7hd1VAW/CnyN0abSp/OaYG8vykUdP9f5xEz7wpx+kowIVFDVQdz5Lp4kihFwNIXc\nm1R9bn/hDjed7S7+i2ebjNg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-deployer@playground-s-11-13b2404d.iam.gserviceaccount.com",
+  "client_id": "103524785778269432642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-deployer%40playground-s-11-13b2404d.iam.gserviceaccount.com"
+}
